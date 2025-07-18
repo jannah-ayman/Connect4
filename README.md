@@ -46,7 +46,8 @@ python connect4.py
 
 ## 📷 Screenshots
 
-> *(You can add screenshots here to show the game interface)*
+> ![Game Screenshot 1](images/Difficulty_Selection.png)
+> ![Game Screenshot 2](images/Game_Interface.png)
 
 ---
 
