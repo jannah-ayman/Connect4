@@ -20,8 +20,8 @@ A fun and visually adorable Connect 4 game where you play against a smart AI opp
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/connect4-cute-ai.git
-cd connect4-cute-ai
+git clone https://github.com/jannah-ayman/Connect4
+cd Connect4
 ```
 
 ### 2. Run the Game
