@@ -1,11 +1,3 @@
-""" 
-Jannah Ayman Abdelraouf CS 1 General
-Rawan Sotohy Mohamed - CS 1 General
-Nancy Saad Mohamed - CS 3 General
-Shrouk Mohsen Hamza - CS 1 Civil 
-
-"""
-
 import tkinter as tk
 from tkinter import messagebox
 import math
